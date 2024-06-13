@@ -29,8 +29,8 @@ prerequisite install flutter pada :
 
 - Flutter sdk
     
-    [![Choose your development platform to get started](https://docs.flutter.dev/get-started/install)]
-    
+    [![Flutter](https://img.icons8.com/color/48/000000/flutter.png)](https://docs.flutter.dev/get-started/install)
+
 - Android Studio
     
     [![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v2.png)](https://developer.android.com/studio)
