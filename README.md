@@ -50,3 +50,4 @@ prerequisite install flutter pada :
     
 
 example first application project flutter / contoh pertama kali project flutter dibuat dan dijalankan
+![Capture](https://github.com/appworkspaceRM/what-is-flutter/assets/135511281/5afc6b34-e330-4f3d-8813-71220f11a07e)
