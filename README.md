@@ -33,7 +33,8 @@ prerequisite install flutter pada :
     
 - Android Studio
     
-    [Download Android Studio & App Tools - Android Developers](https://developer.android.com/studio?gad_source=1&gclid=CjwKCAjwjqWzBhAqEiwAQmtgTwcFVwYIdmNk8nn3g0ya_wjZel_1FPSbsdsF95gbZKvcZUGyxHkzCxoCyzQQAvD_BwE&gclsrc=aw.ds)
+    [![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v2.png)](https://developer.android.com/studio)
+
     
 - Code Editor / Text Editor
     
