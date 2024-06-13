@@ -37,7 +37,7 @@ prerequisite install flutter pada :
     
 - Code Editor / Text Editor
     
-    [visual studio code](https://code.visualstudio.com/)
+    [![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
     
     - Extention
         - Flutter extention
